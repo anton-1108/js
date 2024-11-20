@@ -11,7 +11,7 @@
 // too 7d huvaagdahgui 11d huvaagdana
 // too 7d huvaagdahgui 11ch huvaagdahgui
 
-let too1 = 22;
+let too1 = 20;
 if (too1 % 7 == 0) {
   if (too1 % 11 == 0) {
     console.log("too 7d huvaagdana 11ch huvaagdana");
